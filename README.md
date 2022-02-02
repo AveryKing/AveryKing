@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Avery</h1>
 
-<h4>
+
 - 🔭 I’m currently working on - [DivinityServer](https://github.com/AveryKing/DivinityServer) and [MyLife](https://github.com/AveryKing/MyLife)
-</h4>
+
 - 📫 How to reach me - **avery.n.king@wmich.edu**
-</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/averyking1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="averyking1" height="30" width="40" /></a>

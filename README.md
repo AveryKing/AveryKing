@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avery</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=averyking" alt="averyking" /></a> </p>
 
-- 🔭 I’m currently working on [DivinityServer](https://github.com/AveryKing/DivinityServer)
+- 🔭 I’m currently working on [DivinityServer](https://github.com/AveryKing/DivinityServer) and [MyLife](https://github.com/AveryKing/MyLife)
 
 - 📫 How to reach me **avery.n.king@wmich.edu**
 

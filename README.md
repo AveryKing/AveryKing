@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Avery</h1>
 
 
-- 🔭 I’m currently working on - [DivinityServer](https://github.com/AveryKing/DivinityServer) and [MyLife](https://github.com/AveryKing/MyLife)
+- 🔭 I’m currently working on - [DivinityServer](https://github.com/AveryKing/DivinityServer), [MyLife](https://github.com/AveryKing/MyLife), and [WeDraw](https://github.com/AveryKing/WeDraw)
 
 - 📫 How to reach me - **avery.n.king@wmich.edu**
 

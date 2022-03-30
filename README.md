@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Avery</h1>
-<h3 align="center">Passionate software developer from Chicago</h3>
+<h1 align="left">Hi 👋, I'm Avery</h1>
+<h3 align="left">Passionate software developer from Chicago</h3>
 
 - 🌱 I’m currently learning **Next.js and Spring Boot**
 

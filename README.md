@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Next.js and Spring Boot**
 
-- 👨‍💻 My portfolio is available at [https://portfolio-averyking.vercel.app/](https://portfolio-averyking.vercel.app/)
+- 👨‍💻 My portfolio is available at [https://averyking.dev/](https://averyking.dev/)
 
 - 💬 Ask me about **Web Development**
 

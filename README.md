@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Avery</h1>
+<h1 align="left">Hi 👋🏽, I'm Avery</h1>
 
 - 🌱 I’m currently learning **Next.js and Spring Boot**
 

@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Next.js and Spring Boot**
 
-- 👨‍💻 My portfolio is available at [https://averyking.dev/](https://averyking.dev/)
+- 👨‍💻 My portfolio is available at [averyking.dev](https://averyking.dev/)
 
 - 💬 Ask me about **Web Development**
 

@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋🏽, I'm Avery</h1>
 
-- 🌱 I’m currently learning **ASP.NET Microservices & Next.js**
+- 🌱 I’m currently learning **Microservices & Next.js**
 
 - 👨‍💻 My portfolio is available at [averyking.dev](https://averyking.dev/)
 

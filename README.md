@@ -4,7 +4,7 @@
 
 - 👨‍💻 My portfolio is available at [averyking.dev](https://averyking.dev/)
 
-- 💬 Ask me about **JavaScript, C#, & Web Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **averyk0@protonmail.com**
 

@@ -1,8 +1,5 @@
 
   <h1 align="left">Hi 👋🏽, I'm Avery</h1>
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=averyking&show_icons=true&locale=en&layout=compact" alt="averyking" /></p>
-
-
 
 - 🌱 I’m currently learning **Next.js**
 

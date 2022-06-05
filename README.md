@@ -1,7 +1,7 @@
 
   <h1 align="left">Hi 👋🏽, I'm Avery</h1>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 My portfolio is available at [averyking.dev](https://averyking.dev/)
 
